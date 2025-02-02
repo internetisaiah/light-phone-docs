@@ -1,6 +1,6 @@
 # Light Phone Docs
 
-These are the source files used to build the (un)official open-source docs for The Light Phone. If you'd like to help improve the docs, you can:
+These are the source files used to build the [(un)official Light Phone docs](https://internetisaiah.github.io/light-phone-docs/). If you'd like to help improve the docs, you can:
 
 - [Report an issue](https://github.com/internetisaiah/light-phone-docs/issues/new?assignees=&labels=bug&projects=&template=report_an_issue.md&title=)
 - [Request a feature](https://github.com/internetisaiah/light-phone-docs/issues/new?assignees=&labels=enhancement&projects=&template=request_a_feature.md&title=)
