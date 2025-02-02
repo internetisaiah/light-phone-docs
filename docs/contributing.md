@@ -23,7 +23,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
 
     ![The Light Phone Docs GitHub home page.](./assets/github/github-home-page.png)
 
-    Each page's URL on Light Phone Docs reflects the repository's directory structure. Use your page's URL to find its corresponding Markdown file in the `docs` directory. For example, the Markdown file for `TODO.com/troubleshooting` can be found in `docs` > `troubleshooting.md`.
+    Each page's URL on Light Phone Docs reflects the repository's directory structure. Use your page's URL to find its corresponding Markdown file in the `docs` directory. For example, the Markdown file for `internetisaiah.github.io/light-phone-docs/troubleshooting` can be found in `docs` > `troubleshooting.md`.
 
     ![The files found in the 'docs' directory.](./assets/github/find-the-file.png)
 
