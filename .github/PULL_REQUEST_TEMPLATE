@@ -1,0 +1,19 @@
+<!-- Thank you for contributing! Read comments like this one to fill out your Pull Request. -->
+
+### Why are you making this change? (required)
+<!-- In one or two sentences, describe your changes. -->
+_Your reason here..._
+
+### Related PRs, issues, or features (optional)
+<!-- For related GitHub issues and features, add "Fixes #ISSUE_NUMBER". -->
+- N/A
+
+### Contributor checklist
+<!-- After you've filled out the previous sections, select "Create Draft Pull Request", then review your PR before filling out the following checklist. -->
+- [ ] I confirm that my PR meets the following:
+    - My content fits into a [Diátaxis type](https://diataxis.fr/).
+    - My style and voice follows the [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/).
+    - My content contains correct spelling and grammar.
+    - All links are working correctly.
+
+Thanks for contributing! We look forward to reading your work.

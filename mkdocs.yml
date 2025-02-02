@@ -1,0 +1,63 @@
+site_name: Light Phone Docs
+repo_url: https://github.com/internetisaiah/light-phone-docs
+repo_name: internetisaiah/light-phone-docs
+
+# Standard theme with dark mode enabled
+# For feature descriptions, see: https://squidfunk.github.io/mkdocs-material/setup/
+theme:
+  logo: assets/light-logo-white.svg
+  favicon: assets/light-logo-white.svg
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+  features:
+    - content.code.copy
+    - content.tabs.link
+    - navigation.path
+    - navigation.indexes
+
+# Social links for the site footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/internetisaiah/light-phone-docs
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/8ggjn69pPR
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/the-light-phone
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@thelightphoneIii
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/thelightphone
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/thelightphone/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      toc_depth: 3
+
+# Global site navigation
+nav:
+  - Home: 'index.md'
+  - Tips and tricks: 'tips_and_tricks.md'
+  - App replacements: 'app_replacements.md'
+  - Accessories: 'accessories.md'
+  - Modding: 'modding.md'
+  - Troubleshooting: 'troubleshooting.md'
+  - Contributing: 'contributing.md'
