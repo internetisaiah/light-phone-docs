@@ -1,10 +1,10 @@
 # Light Phone Community Docs
 
-These are the source files used to build the unofficial [Light Phone Community Docs](https://internetisaiah.github.io/light-phone-docs/). If you'd like to help improve the docs, you can:
+These are the source files used to build the unofficial [Light Phone Community Docs](https://lightphonecommunity.com/). If you'd like to help improve the docs, you can:
 
 - [Report an issue](https://github.com/internetisaiah/light-phone-docs/issues/new?assignees=&labels=bug&projects=&template=report_an_issue.md&title=)
 - [Request a feature](https://github.com/internetisaiah/light-phone-docs/issues/new?assignees=&labels=enhancement&projects=&template=request_a_feature.md&title=)
-- [Contribute content](https://internetisaiah.github.io/light-phone-docs/contributing/)
+- [Contribute content](https://lightphonecommunity.com/contributing/)
 - [Join the unofficial Discord server](https://discord.com/invite/8ggjn69pPR)
  
 > **Note:** The Discord server is not run by any of our moderators, but it's still the best place to connect with members of our community and other Light Phone users.
