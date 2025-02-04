@@ -1,4 +1,4 @@
-site_name: Light Phone Docs
+site_name: Light Phone Community Docs
 repo_url: https://github.com/internetisaiah/light-phone-docs
 repo_name: internetisaiah/light-phone-docs
 
@@ -55,8 +55,8 @@ markdown_extensions:
 # Global site navigation
 nav:
   - Home: 'index.md'
-  - Tips and tricks: 'tips_and_tricks.md'
-  - App replacements: 'app_replacements.md'
+  - Tips and tricks: 'tips.md'
+  - App replacements: 'app-replacements.md'
   - Accessories: 'accessories.md'
   - Modding: 'modding.md'
   - Troubleshooting: 'troubleshooting.md'
