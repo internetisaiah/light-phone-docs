@@ -1,4 +1,4 @@
-# Light Phone Docs
+# Light Phone Community Docs
 
 Welcome to the unofficial, community-ran docs site for the Light Phone! Select a topic below to get started.
 
@@ -10,7 +10,7 @@ Welcome to the unofficial, community-ran docs site for the Light Phone! Select a
 
     Tips, tricks, and unique ways to use your phone.
 
-    [:octicons-arrow-right-24: Learn more](./tips_and_tricks.md)
+    [:octicons-arrow-right-24: Learn more](./tips.md)
 
 -   :material-flashlight:{ .lg .middle } __App replacements__
 
@@ -18,7 +18,7 @@ Welcome to the unofficial, community-ran docs site for the Light Phone! Select a
 
     Software and tools to help replace your old smartphone apps.
 
-    [:octicons-arrow-right-24: Learn more](./app_replacements.md)
+    [:octicons-arrow-right-24: Learn more](./app-replacements.md)
 
 -   :material-power-plug:{ .lg .middle } __Accessories__
 

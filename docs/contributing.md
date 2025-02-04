@@ -17,7 +17,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
 
 === "Using a web browser"
 
-    #### Find the page on GitHub
+    #### Step 1.1: Find the page on GitHub
 
     In the [Light Phone Docs repository](https://github.com/internetisaiah/light-phone-docs), select `docs`.
 
@@ -27,7 +27,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
 
     ![The files found in the 'docs' directory.](./assets/github/find-the-file.png)
 
-    #### Edit the file
+    #### Step 1.2: Edit the file
 
     Select **Edit this file**, then make your changes using [Markdown formatting](https://www.markdownguide.org/basic-syntax/).
 
@@ -40,7 +40,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
 
     ![The 'troubleshooting.md' file showing the 'Commit changes' option.](./assets/github/commit-your-changes.png)
 
-    #### Propose your changes
+    #### Step 1.3: Propose your changes
 
     In the next window, choose **Create a new branch for this commit and start a pull request**. If you choose the first option, your changes will not be sent to the correct location, so double-check that the correct option is selected before continuing.
 
@@ -54,7 +54,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
 
 === "Using the terminal"
     
-    #### Set up your local environment
+    #### Step 1.1: Set up your local environment
 
     !!! note
         If you've already forked and cloned the repository, continue to the [next step](#get-the-latest-changes).
@@ -92,7 +92,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     target  git@github.com:internetisaiah/light-phone-docs.git (push)
     ```
 
-    #### Get the latest changes
+    #### Step 1.2: Get the latest changes
 
     In the repository, the `develop` branch reflects the most up-to-date version of Light Phone Docs. Check out the `develop` branch and pull the latest updates into your local environment.
 
@@ -102,7 +102,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     git pull
     ```
 
-    #### Create a new branch
+    #### Step 1.3: Create a new branch
 
     When making changes to the docs, you'll always create a new branch. Use `git branch` along with the `-b` flag to create a new branch.
 
@@ -117,7 +117,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     Switched to a new branch 'fixing-typo-in-troubleshooting'
     ```
 
-    #### Edit the file
+    #### Step 1.4: Edit the file
 
     In your text editor, open the document you want to change, then make your changes using [Markdown formatting](https://www.markdownguide.org/basic-syntax/).
 
@@ -134,7 +134,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     no changes added to commit (use "git add" and/or "git commit -a")
     ```
 
-    #### Push your changes
+    #### Step 1.5: Push your changes
 
     Use `git add` to tell Git which changes you want to stage for your commit. The following command shows two options:
 
@@ -176,7 +176,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     branch 'fixing-typo-in-troubleshooting' set up to track 'origin/fixing-typo-in-troubleshooting'.
     ```
 
-    #### Create your pull request
+    #### Step 1.6: Create your pull request
 
     Go back to the [repository homepage](https://github.com/internetisaiah/light-phone-docs) and select **Compare & pull request**. You'll fill out the draft in the next step.
 
