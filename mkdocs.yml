@@ -1,9 +1,17 @@
+# Project information
 site_name: Light Phone Community Docs
+site_url: https://lightphonecommunity.com/
+site_author: Isaiah Robinson
+site_description: The unofficial community docs for The Light Phone.
+
+# Repository information
 repo_url: https://github.com/internetisaiah/light-phone-docs
 repo_name: internetisaiah/light-phone-docs
+edit_uri: edit/main/docs/ # required for 'content.action.edit'
 
 # Standard theme with dark mode enabled
-# For feature descriptions, see: https://squidfunk.github.io/mkdocs-material/setup/
+# For key descriptions, see: 
+# https://squidfunk.github.io/mkdocs-material/setup/
 theme:
   logo: assets/light-logo-white.svg
   favicon: assets/light-logo-white.svg
@@ -12,27 +20,13 @@ theme:
     scheme: slate
     primary: black
   features:
+    - content.action.edit
     - content.code.copy
     - content.tabs.link
     - navigation.path
     - navigation.indexes
 
-# Social links for the site footer
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/internetisaiah/light-phone-docs
-    - icon: fontawesome/brands/discord
-      link: https://discord.com/invite/8ggjn69pPR
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/the-light-phone
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@thelightphoneIii
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/thelightphone
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/thelightphone/
-
+# Extensions for Markdown formatting
 markdown_extensions:
   - admonition
   - attr_list
@@ -51,6 +45,23 @@ markdown_extensions:
       alternate_style: true
   - toc:
       toc_depth: 3
+      permalink: true
+
+# Social links for the site footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/internetisaiah/light-phone-docs
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/8ggjn69pPR
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/the-light-phone
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@thelightphoneIii
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/thelightphone
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/thelightphone/
 
 # Global site navigation
 nav:

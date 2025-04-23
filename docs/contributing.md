@@ -57,7 +57,7 @@ To make a change, you can use your web browser or the terminal. If you're new to
     #### Step 1.1: Set up your local environment
 
     !!! note
-        If you've already forked and cloned the repository, continue to the [next step](#get-the-latest-changes).
+        If you've already forked and cloned the repository, continue to the [next step](#step-12-get-the-latest-changes).
         
     Go to the [Light Phone Docs repository](https://github.com/internetisaiah/light-phone-docs) and select **Fork** > **Create Fork**.
 

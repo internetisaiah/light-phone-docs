@@ -1,0 +1,75 @@
+# =============================
+# IDEs & Text Editors
+# =============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+
+# =============================
+# Operating System Files
+# =============================
+*.~lock.*
+*.tmp
+*.log
+*.cache
+*.bak
+*.swp
+ehthumbs.db
+desktop.ini
+.DS_Store
+._*
+
+# =============================
+# MkDocs Build Output
+# =============================
+site/
+mkdocs_build/
+mkdocs_build/*
+
+# =============================
+# GitHub Pages / Jekyll
+# =============================
+# If using Jekyll with GitHub Pages
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+Gemfile.lock
+.bundle/
+
+# Ignore the 'docs' folder if MkDocs is serving from 'site'
+# (Remove if you are committing 'docs/')
+# docs/
+
+# =============================
+# Python Virtual Environment (if using)
+# =============================
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =============================
+# Node.js (if using npm/yarn)
+# =============================
+node_modules/
+package-lock.json
+yarn.lock
+
+# =============================
+# Miscellaneous
+# =============================
+# GitHub Actions temporary files
+*.workflow
+
+# Ignore local override files
+*.local
+*.secret
